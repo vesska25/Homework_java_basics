@@ -1,6 +1,6 @@
 package com.vesska;
 
-public class homework_1 {
+public class Homework_1 {
     public static void main(String[] args) {
 
         byte eins = 100;
